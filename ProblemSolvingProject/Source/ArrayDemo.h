@@ -8,4 +8,3 @@ public:
 	virtual ~ArrayDemo();
 	void run_demo();
 };
-
